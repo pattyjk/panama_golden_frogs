@@ -9,24 +9,40 @@ setwd("./Github/panama_golden_frogs/")
 meta<-read.delim("Run11_map.txt", header=T)
 
 #read in ASV table
+#read in ASV table
 asv_table<-read.delim("asv_table.txt", header=T, row.names=1)
+dim(asv_table)
+#1437   90
 
-#remove mock and negative samples
-asv_table<-asv_table[, -which(names(asv_table) %in% c("neg3", "Mock"))]
+#extract negative sample ASVs
+asv_table_neg<-as.data.frame(asv_table$neg3)
+contam_ASV<-which(rowSums(asv_table_neg)>0)
+length(contam_ASV)
+#17
+
+#remove contaminated ASVs from analysis
+asv_table_no_contam<-asv_table[-contam_ASV,]
+dim(asv_table_no_contam)
+#1420   91
+
+#remove mock sample and negative control
+asv_table_no_contam<-asv_table_no_contam[, -which(names(asv_table_no_contam) %in% c("Mock", "neg3"))]
+dim(asv_table_no_contam)
+#1420 89
 
 #get sequence counts per sample
-asv_col_sums<-colSums(asv_table)
+asv_col_sums<-colSums(asv_table_no_contam)
 min(asv_col_sums)
-#11895
+#11800
 max(asv_col_sums)
-#34584
+#345512
 
 #transpose table for analysis
-asv_table<-t(asv_table)
+asv_table<-t(asv_table_no_contam)
 
 #rarefy data to 11895
 set.seed(1105)
-asv_table_rare<-rrarefy(asv_table, sample=11895)
+asv_table_rare<-rrarefy(asv_table, sample=11800)
 
 #calculate PCoA based on Bray-curtis and calculate the percent variation explained
 asv.pcoa<-capscale(asv_table_rare ~ 1, distance='bray')
