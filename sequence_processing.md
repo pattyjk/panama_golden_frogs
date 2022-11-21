@@ -44,10 +44,7 @@ qiime quality-filter q-score \
 wget https://data.qiime2.org/2022.8/common/silva-138-99-515-806-nb-classifier.qza
  
 #assign taxonomy to  SILVA with sklearn
-qiime feature-classifier classify-sklearn \
-  --i-classifier silva-138-99-515-806-nb-classifier.qza \
-  --i-reads  run11_seqs-001.qza \
-  --o-classification run11_taxonomy.qza
+qiime feature-classifier classify-sklearn   --i-classifier silva-138-99-515-806-nb-classifier.qza   --i-reads  Run11_rep-seqs-deblur.qza   --o-classification run11_taxonomy.qza
 
 
 qiime metadata tabulate \
