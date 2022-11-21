@@ -37,8 +37,8 @@ qiime quality-filter q-score \
   --i-sequences Run11_rep-seqs-deblur.qza \
   --output-dir phylogeny-align-to-tree-mafft-fasttree
   
-  #export tree as NWK format
-  qiime tools export --input-path tree.qza --output-path tree
+#export tree as NWK format
+qiime tools export --input-path tree.qza --output-path tree
  
 #pull trained taxonomy dataset (SILVA 138. Has only 515F/806R region)
 wget https://data.qiime2.org/2022.8/common/silva-138-99-515-806-nb-classifier.qza
@@ -46,11 +46,17 @@ wget https://data.qiime2.org/2022.8/common/silva-138-99-515-806-nb-classifier.qz
 #assign taxonomy to  SILVA with sklearn
 qiime feature-classifier classify-sklearn   --i-classifier silva-138-99-515-806-nb-classifier.qza   --i-reads  Run11_rep-seqs-deblur.qza   --o-classification run11_taxonomy.qza
 
-
-qiime metadata tabulate \
-  --m-input-file taxonomy.qza \
-  --o-visualization taxonomy.qzv
+#summarize taxonomy
+qiime taxa barplot \
+  --i-table Run11_table-deblur.qza \
+  --i-taxonomy run11_taxonomy.qza \
+  --m-metadata-file Run11_map.txt \
+  --o-visualization taxa-bar-plots.qzv
+  
+ #export summary of taxonomy
+ qiime tools export --input-path taxa-bar-plots.qzv --output-path taxa_sum
  
 # convert ASV table to biom/text
- 
+ qiime tools export --input-path Run11_table-deblur.qza --output-path table
+ biom convert -i table/feature-table.biom -o asv_table.txt --to-tsv
   ```
