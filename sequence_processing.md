@@ -36,20 +36,24 @@ qiime quality-filter q-score \
  qiime phylogeny align-to-tree-mafft-fasttree \
   --i-sequences Run11_rep-seqs-deblur.qza \
   --output-dir phylogeny-align-to-tree-mafft-fasttree
- 
- #pull SILVA
- wget https://data.qiime2.org/2022.8/common/silva-138-99-seqs-515-806.qza
- 
- #assign taxonomy to  SILVA with sklearn
- qiime feature-classifier classify-sklearn \
-  --i-classifier silva-138-99-seqs-515-806.qza \
-  --i-reads Run11_rep-seqs-deblur.qza \
-  --o-classification taxonomy.qza
   
+  #export tree as NWK format
+  qiime tools export --input-path tree.qza --output-path tree
+ 
+#pull trained taxonomy dataset (SILVA 138. Has only 515F/806R region)
+wget https://data.qiime2.org/2022.8/common/silva-138-99-515-806-nb-classifier.qza
+ 
+#assign taxonomy to  SILVA with sklearn
+qiime feature-classifier classify-sklearn \
+  --i-classifier silva-138-99-515-806-nb-classifier.qza \
+  --i-reads  run11_seqs-001.qza \
+  --o-classification run11_taxonomy.qza
+
+
 qiime metadata tabulate \
   --m-input-file taxonomy.qza \
   --o-visualization taxonomy.qzv
  
-# convert ASV table
-  
+# convert ASV table to biom/text
+ 
   ```
