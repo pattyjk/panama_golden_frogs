@@ -2,21 +2,19 @@
 ### Sequence processing
 
 ```
+#load QIIME 2022.8
 source activate qiime2-2022.8
 
-#load data into QIIME
-##Run 11
+#load raw FASTQ reads into QIIME
 qiime tools import --type EMPSingleEndSequences --input-path ./data --output-path run11_seqs.qza
-
-#julia's already in QZA format so no script needed
 
 #demultiplex reads
 qiime demux emp-single \
-  --i-seqs becker_seqs.qza \
-  --m-barcodes-file Atelopus1_Mapping_File.txt \
+  --i-seqs run11_seqs.qza \
+  --m-barcodes-file Run11_map.txt \
   --m-barcodes-column BarcodeSequence \
-  --o-per-sample-sequences becker_demux.qza \
-  --o-error-correction-details becker_demux-details.qza \
+  --o-per-sample-sequences Run11_demux.qza \
+  --o-error-correction-details Run11_demux-details.qza \
   --p-no-golay-error-correction
   
 #quality filer
