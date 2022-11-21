@@ -1,4 +1,4 @@
-SampleID	BarcodeSequence	LinkerPrimerSequence	Plate	PCR_Well	Species	Treatment.x	Description	Sample_ID_backup.spreadsheet	X	Treatment.y	Bd.infected	TRT	Gosner.Stage.at.arrival	Metamorphed.on	Weight.when.infected	Weight.50.days.post.infection	TRT.1	Growth....	Days.survived.in.experiment	Deceased.on	Cause.of.death
+SampleID	BarcodeSequence	LinkerPrimerSequence	Plate	PCRWell	Species	Treatment.x	Description	SampleIDbackup.spreadsheet	X	Treatment.y	Bd.infected	TRT	Gosner.Stage.at.arrival	Metamorphed.on	Weight.when.infected	Weight.50.days.post.infection	TRT.1	Growth....	Days.survived.in.experiment	Deceased.on	Cause.of.death
 BacMx10	GCGAGGAA	GTGTGYCAGCMGCCGCGGTAA	3	A3	Atelopuszeteki	Bacteria Mixture	BacMx10	BacMix10	BacMix10	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180801	0.08	0.164	1	105	NA	alive	
 BacMx11	GGACAAGT	GTGTGYCAGCMGCCGCGGTAA	3	B3	Atelopuszeteki	Bacteria Mixture	BacMx11	BacMix11	BacMix11	Repeatedly inoculated with beneficial microbiota consortium	yes	3	26-30	20180814	0.059	0.105	1	77.96610169	98	20190123	unknown
 BacMx13	CTGATGTA	GTGTGYCAGCMGCCGCGGTAA	3	C3	Atelopuszeteki	Bacteria Mixture	BacMx13	BacMix13	BacMix13	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180716	0.071	0.099	1	39.43661972	119	20190213	unknown
@@ -22,7 +22,7 @@ Bd9	CATTTGAC	GTGTGYCAGCMGCCGCGGTAA	3	F1	Atelopuszeteki	Bd	Bd9	Bd09		Repeatedly i
 Bsal10	ACACCGCA	GTGTGYCAGCMGCCGCGGTAA	3	G11	Atelopuszeteki	Bsal	Bsal10	Bsal10		One time inoculated with treated with living Bsal zoospores	yes	4	39	20180801	0.125	0.158	3	26.4	NA	alive	
 Bsal11	CAGCCCTA	GTGTGYCAGCMGCCGCGGTAA	3	H11	Atelopuszeteki	Bsal	Bsal11	Bsal11		One time inoculated with treated with living Bsal zoospores	yes	4	37	20180801	0.05	0.108	3	116	110	20190204	unknown
 Bsal12	CGGAGAGA	GTGTGYCAGCMGCCGCGGTAA	3	H10	Atelopuszeteki	Bsal	Bsal12	Bsal12?		One time inoculated with treated with living Bsal zoospores	yes	4	27-30	20180803	0.074	0.112	3	51.35135135	NA	alive	
-Bsal12_2	TCCGCCTA	GTGTGYCAGCMGCCGCGGTAA	3	A12	Atelopuszeteki	Bsal	Bsal12	Bsal12?		One time inoculated with treated with living Bsal zoospores	yes	4	38	20180809	0.053	0.107	3	101.8867925	129	20190223	
+Bsal122	TCCGCCTA	GTGTGYCAGCMGCCGCGGTAA	3	A12	Atelopuszeteki	Bsal	Bsal12	Bsal12?		One time inoculated with treated with living Bsal zoospores	yes	4	38	20180809	0.053	0.107	3	101.8867925	129	20190223	
 Bsal2	GTCGCTTG	GTGTGYCAGCMGCCGCGGTAA	3	A11	Atelopuszeteki	Bsal	Bsal2	Bsal02		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180725	0.063	0.117	3	85.71428571	104	20190129	unknown
 Bsal3	TCTTGCGG	GTGTGYCAGCMGCCGCGGTAA	3	B11	Atelopuszeteki	Bsal	Bsal3	Bsal03		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180713	0.071	0.1105	3	55.63380282	NA	alive	
 Bsal4	GAGCCATC	GTGTGYCAGCMGCCGCGGTAA	3	C11	Atelopuszeteki	Bsal	Bsal4	Bsal04		One time inoculated with treated with living Bsal zoospores	yes	4	33	20181028	0.1	0.0944	3	-5.6	143	20190309	
@@ -38,7 +38,7 @@ C5	AGACTTCT	GTGTGYCAGCMGCCGCGGTAA	3	B10	Atelopuszeteki		C5	C05		Control	yes	5	41
 C7	AGTTCTCA	GTGTGYCAGCMGCCGCGGTAA	3	C10	Atelopuszeteki		C7	C07		Control	no	0	40	20180715	0.098	0.121	4	23.46938776	82	20190107	unknown
 C9	GTGTCGAG	GTGTGYCAGCMGCCGCGGTAA	3	D10	Atelopuszeteki		C9	C09		Control	yes	5	41	20180715	0.076	0.109	4	43.42105263	143	20190309	
 Coma10	TGGAGCCT	GTGTGYCAGCMGCCGCGGTAA	3	D3	Atelopuszeteki	Comamonas	Coma10	Coma10		Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180803	0.071	0.139	5	95.77464789	81	20190106	Moldy Container
-Coma10_2	ACGTATTC	GTGTGYCAGCMGCCGCGGTAA	3	C4	Atelopuszeteki	Comamonas	Coma10	Coma13		Repeatedly inoculated with a modified Comamonas strain	yes	6	39	20180730	NA	NA	5	#DIV/0!	NA	20180730	unknown
+Coma102	ACGTATTC	GTGTGYCAGCMGCCGCGGTAA	3	C4	Atelopuszeteki	Comamonas	Coma10	Coma13		Repeatedly inoculated with a modified Comamonas strain	yes	6	39	20180730	NA	NA	5	#DIV/0!	NA	20180730	unknown
 Coma11	TTACTTAT	GTGTGYCAGCMGCCGCGGTAA	3	D4	Atelopuszeteki	Comamonas	Coma11	Coma11		Repeatedly inoculated with a modified Comamonas strain	no	NA		NA	NA	NA	5	#DIV/0!	NA	alive	
 Coma12	AGTTGTAG	GTGTGYCAGCMGCCGCGGTAA	3	E4	Atelopuszeteki	Comamonas	Coma12	Coma12		Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180713	0.078	0.113	5	44.87179487	93	20190118	unknown
 Coma3	ACGTGCCT	GTGTGYCAGCMGCCGCGGTAA	3	E3	Atelopuszeteki	Comamonas	Coma3	Coma03		Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180830	0.052	0.13	5	150	98	20190123	unknown
