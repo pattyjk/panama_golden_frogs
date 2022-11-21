@@ -19,7 +19,7 @@ qiime demux emp-single \
   --o-error-correction-details becker_demux-details.qza \
   --p-no-golay-error-correction
   
- #quality filer firsts
+#quality filer
 qiime quality-filter q-score \
  --i-demux becker_demux.qza \
  --o-filtered-sequences becker_demux-filtered.qza \
