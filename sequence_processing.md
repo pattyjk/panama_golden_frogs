@@ -21,18 +21,37 @@ qiime demux emp-single \
   
 #quality filer
 qiime quality-filter q-score \
- --i-demux becker_demux.qza \
- --o-filtered-sequences becker_demux-filtered.qza \
- --o-filter-stats becker_demux-filter-stats.qza
+ --i-demux Run11_demux.qza \
+ --o-filtered-sequences Run11_demux-filtered.qza \
+ --o-filter-stats Run11_demux-filter-stats.qza
  
   #call ASVs with deblur
   qiime deblur denoise-16S \
-  --i-demultiplexed-seqs becker_demux-filtered.qza \
+  --i-demultiplexed-seqs Run11_demux-filtered.qza \
   --p-trim-length 120 \
-  --o-representative-sequences becker_rep-seqs-deblur.qza \
-  --o-table becker_table-deblur.qza \
+  --o-representative-sequences Run11_rep-seqs-deblur.qza \
+  --o-table Run11_table-deblur.qza \
   --p-sample-stats \
-  --o-stats becker_deblur-stats.qza
+  --o-stats Run11_deblur-stats.qza
+ 
+ #make phylogenetic tree with fasttree
+ qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences Run11_rep-seqs-deblur.qza \
+  --output-dir phylogeny-align-to-tree-mafft-fasttree
+ 
+ #pull SILVA
+ wget https://data.qiime2.org/2022.8/common/silva-138-99-seqs-515-806.qza
+ 
+ #assign taxonomy to  SILVA
+ qiime feature-classifier classify-sklearn \
+  --i-classifier silva-138-99-seqs-515-806.qza \
+  --i-reads Run11_rep-seqs-deblur.qza \
+  --o-classification taxonomy.qza
   
-  # convert ASV table
+qiime metadata tabulate \
+  --m-input-file taxonomy.qza \
+  --o-visualization taxonomy.qzv
+ 
+# convert ASV table
+  
   ```
