@@ -40,7 +40,7 @@ qiime quality-filter q-score \
  #pull SILVA
  wget https://data.qiime2.org/2022.8/common/silva-138-99-seqs-515-806.qza
  
- #assign taxonomy to  SILVA
+ #assign taxonomy to  SILVA with sklearn
  qiime feature-classifier classify-sklearn \
   --i-classifier silva-138-99-seqs-515-806.qza \
   --i-reads Run11_rep-seqs-deblur.qza \
