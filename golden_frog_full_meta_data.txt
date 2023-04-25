@@ -1,92 +1,92 @@
-SampleID	BarcodeSequence	LinkerPrimerSequence	Plate	PCRWell	Species	Treatment.x	Description	SampleIDbackup.spreadsheet	X	Treatment.y	Bd.infected	TRT	Gosner.Stage.at.arrival	Metamorphed.on	Weight.when.infected	Weight.50.days.post.infection	TRT.1	Growth....	Days.survived.in.experiment	Deceased.on	Cause.of.death
-BacMx10	GCGAGGAA	GTGTGYCAGCMGCCGCGGTAA	3	A3	Atelopuszeteki	Bacteria Mixture	BacMx10	BacMix10	BacMix10	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180801	0.08	0.164	1	105	NA	alive	
-BacMx11	GGACAAGT	GTGTGYCAGCMGCCGCGGTAA	3	B3	Atelopuszeteki	Bacteria Mixture	BacMx11	BacMix11	BacMix11	Repeatedly inoculated with beneficial microbiota consortium	yes	3	26-30	20180814	0.059	0.105	1	77.96610169	98	20190123	unknown
-BacMx13	CTGATGTA	GTGTGYCAGCMGCCGCGGTAA	3	C3	Atelopuszeteki	Bacteria Mixture	BacMx13	BacMix13	BacMix13	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180716	0.071	0.099	1	39.43661972	119	20190213	unknown
-BacMx2	GATCTAAT	GTGTGYCAGCMGCCGCGGTAA	3	C2	Atelopuszeteki	Bacteria Mixture	BacMx2	BacMix02	BacMix02	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180723	0.11	0.127	1	15.45454545	59	20181205	unknown
-BacMx3	CCGCAGCC	GTGTGYCAGCMGCCGCGGTAA	3	D2	Atelopuszeteki	Bacteria Mixture	BacMx3	BacMix03	BacMix03	Repeatedly inoculated with beneficial microbiota consortium	no	NA	34	20181025	0.099	NA	1	-100	118	20190212	accidental death by falling
-BacMx4	GAACCGTG	GTGTGYCAGCMGCCGCGGTAA	3	E2	Atelopuszeteki	Bacteria Mixture	BacMx4	BacMix04	BacMix04	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180713	0.057	0.097	1	70.1754386	NA	20192502	unknown
-BacMx6	ACTAAGTA	GTGTGYCAGCMGCCGCGGTAA	3	F2	Atelopuszeteki	Bacteria Mixture	BacMx6	BacMix06	BacMix06	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180721	0.059	0.099	1	67.79661017	122	20190216	
-BacMx8	CTCAGCGG	GTGTGYCAGCMGCCGCGGTAA	3	G2	Atelopuszeteki	Bacteria Mixture	BacMx8	BacMix08	BacMix08	Repeatedly inoculated with beneficial microbiota consortium	yes	3	25	20180929	0.025	0.101	1	304	121	20190215	
-BacMx9	GTTAACTT	GTGTGYCAGCMGCCGCGGTAA	3	H2	Atelopuszeteki	Bacteria Mixture	BacMx9	BacMix09	BacMix09	Repeatedly inoculated with beneficial microbiota consortium	yes	3	35	20180822	0.079	0.138	1	74.6835443	NA	alive	
-Bd1	CCTCGCAT	GTGTGYCAGCMGCCGCGGTAA	3	A1	Atelopuszeteki	Bd	Bd1	Bd01		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	36-40	20180721	0.072	0.115	2	59.72222222	105	20190130	unknown
-Bd10	GCTGCGTA	GTGTGYCAGCMGCCGCGGTAA	3	G1	Atelopuszeteki	Bd	Bd10	Bd10		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	40	20180721	0.094	0.104	2	10.63829787	NA	alive	
-Bd11	GAGAAGCT	GTGTGYCAGCMGCCGCGGTAA	3	H1	Atelopuszeteki	Bd	Bd11	Bd11		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	41	20180711	0.115	0.169	2	46.95652174	NA	alive	
-Bd12	GGCGTAAC	GTGTGYCAGCMGCCGCGGTAA	3	A2	Atelopuszeteki	Bd	Bd12	Bd12		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	41	20180721	0.106	0.116	2	9.433962264	NA	alive	
-Bd13	AATACAGA	GTGTGYCAGCMGCCGCGGTAA	3	B2	Atelopuszeteki	Bd	Bd13	Bd13		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	39	20180721	0.075	0.0935	2	24.66666667	65	20181221	unknown
-Bd2	CGCGCAAG	GTGTGYCAGCMGCCGCGGTAA	3	B1	Atelopuszeteki	Bd	Bd2	Bd02		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	36	20180801	0.116	0.129	2	11.20689655	119	20190213	unknown
-Bd5	TCGAGCCG	GTGTGYCAGCMGCCGCGGTAA	3	F9	Atelopuszeteki	Bd	Bd5	Bd05		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	42	20180712	0.107	0.13	2	21.4953271	NA	alive	
-Bd6	AAGGCGCT	GTGTGYCAGCMGCCGCGGTAA	3	C1	Atelopuszeteki	Bd	Bd6	Bd06		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	37	20180908	0.082	0.114	2	39.02439024	106	20190131	unknown
-Bd7	CGCAATGA	GTGTGYCAGCMGCCGCGGTAA	3	D1	Atelopuszeteki	Bd	Bd7	Bd07		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	39	20180725	0.082	0.109	2	32.92682927	98	20190123	unknown
-Bd8	ACGGCGTT	GTGTGYCAGCMGCCGCGGTAA	3	E1	Atelopuszeteki	Bd	Bd8	Bd08		Repeatedly inoculated with treated with dead Bd zoospores	yes	4	38	20180803	0.06	0.092	2	53.33333333	87	20190112	unknown
-Bd9	CATTTGAC	GTGTGYCAGCMGCCGCGGTAA	3	F1	Atelopuszeteki	Bd	Bd9	Bd09		Repeatedly inoculated with treated with dead Bd zoospores	no	NA	35	20181112	NA	NA	2	#DIV/0!	26	20181112	unknown
-Bsal10	ACACCGCA	GTGTGYCAGCMGCCGCGGTAA	3	G11	Atelopuszeteki	Bsal	Bsal10	Bsal10		One time inoculated with treated with living Bsal zoospores	yes	4	39	20180801	0.125	0.158	3	26.4	NA	alive	
-Bsal11	CAGCCCTA	GTGTGYCAGCMGCCGCGGTAA	3	H11	Atelopuszeteki	Bsal	Bsal11	Bsal11		One time inoculated with treated with living Bsal zoospores	yes	4	37	20180801	0.05	0.108	3	116	110	20190204	unknown
-Bsal12	CGGAGAGA	GTGTGYCAGCMGCCGCGGTAA	3	H10	Atelopuszeteki	Bsal	Bsal12	Bsal12?		One time inoculated with treated with living Bsal zoospores	yes	4	27-30	20180803	0.074	0.112	3	51.35135135	NA	alive	
-Bsal122	TCCGCCTA	GTGTGYCAGCMGCCGCGGTAA	3	A12	Atelopuszeteki	Bsal	Bsal12	Bsal12?		One time inoculated with treated with living Bsal zoospores	yes	4	38	20180809	0.053	0.107	3	101.8867925	129	20190223	
-Bsal2	GTCGCTTG	GTGTGYCAGCMGCCGCGGTAA	3	A11	Atelopuszeteki	Bsal	Bsal2	Bsal02		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180725	0.063	0.117	3	85.71428571	104	20190129	unknown
-Bsal3	TCTTGCGG	GTGTGYCAGCMGCCGCGGTAA	3	B11	Atelopuszeteki	Bsal	Bsal3	Bsal03		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180713	0.071	0.1105	3	55.63380282	NA	alive	
-Bsal4	GAGCCATC	GTGTGYCAGCMGCCGCGGTAA	3	C11	Atelopuszeteki	Bsal	Bsal4	Bsal04		One time inoculated with treated with living Bsal zoospores	yes	4	33	20181028	0.1	0.0944	3	-5.6	143	20190309	
-Bsal5	TTCCACAC	GTGTGYCAGCMGCCGCGGTAA	3	D11	Atelopuszeteki	Bsal	Bsal5	Bsal05		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180713	0.063	0.102	3	61.9047619	NA	alive	
-Bsal7	ATTTCCGC	GTGTGYCAGCMGCCGCGGTAA	3	E11	Atelopuszeteki	Bsal	Bsal7	Bsal07		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180721	0.1025	0.14	3	36.58536585	NA	alive	
-Bsal8	GTACTCGA	GTGTGYCAGCMGCCGCGGTAA	3	F11	Atelopuszeteki	Bsal	Bsal8	Bsal08		One time inoculated with treated with living Bsal zoospores	yes	4	41	20180721	0.095	0.123	3	29.47368421	129	20190223	
-C10	AGTGTTTC	GTGTGYCAGCMGCCGCGGTAA	3	E10	Atelopuszeteki		C10	C10		Control	no	0	40	20180712	0.083	0.098	4	18.07228916	79	20190104	Moldy Container
-C11	AGTGCAGG	GTGTGYCAGCMGCCGCGGTAA	3	F10	Atelopuszeteki		C11	C11		Control	yes	5	39	20180713	0.107	0.126	4	17.75700935	76	20190101	Moldy Container
-C13	GTTGCTGA	GTGTGYCAGCMGCCGCGGTAA	3	G10	Atelopuszeteki		C13	C13		Control	?	NA	35	20180810	0.08	0.13	4	62.5	81	20190106	Moldy Container
-C2	TAAGGTCG	GTGTGYCAGCMGCCGCGGTAA	3	G9	Atelopuszeteki		C2	C02		Control	no	0	39	20180801	0.066	0.111	4	68.18181818	76	20190101	Moldy Container
-C3	GCGCGGCG	GTGTGYCAGCMGCCGCGGTAA	3	A10	Atelopuszeteki		C6? C5? C3?	C03		Control	yes	5	39	20180721	NA	NA	4	#DIV/0!	NA	20180921	unknown
-C5	AGACTTCT	GTGTGYCAGCMGCCGCGGTAA	3	B10	Atelopuszeteki		C5	C05		Control	yes	5	41	20180715	0.083	0.107	4	28.91566265	69	20181225	unknown
-C7	AGTTCTCA	GTGTGYCAGCMGCCGCGGTAA	3	C10	Atelopuszeteki		C7	C07		Control	no	0	40	20180715	0.098	0.121	4	23.46938776	82	20190107	unknown
-C9	GTGTCGAG	GTGTGYCAGCMGCCGCGGTAA	3	D10	Atelopuszeteki		C9	C09		Control	yes	5	41	20180715	0.076	0.109	4	43.42105263	143	20190309	
-Coma10	TGGAGCCT	GTGTGYCAGCMGCCGCGGTAA	3	D3	Atelopuszeteki	Comamonas	Coma10	Coma10		Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180803	0.071	0.139	5	95.77464789	81	20190106	Moldy Container
-Coma102	ACGTATTC	GTGTGYCAGCMGCCGCGGTAA	3	C4	Atelopuszeteki	Comamonas	Coma10	Coma13		Repeatedly inoculated with a modified Comamonas strain	yes	6	39	20180730	NA	NA	5	#DIV/0!	NA	20180730	unknown
-Coma11	TTACTTAT	GTGTGYCAGCMGCCGCGGTAA	3	D4	Atelopuszeteki	Comamonas	Coma11	Coma11		Repeatedly inoculated with a modified Comamonas strain	no	NA		NA	NA	NA	5	#DIV/0!	NA	alive	
-Coma12	AGTTGTAG	GTGTGYCAGCMGCCGCGGTAA	3	E4	Atelopuszeteki	Comamonas	Coma12	Coma12		Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180713	0.078	0.113	5	44.87179487	93	20190118	unknown
-Coma3	ACGTGCCT	GTGTGYCAGCMGCCGCGGTAA	3	E3	Atelopuszeteki	Comamonas	Coma3	Coma03		Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180830	0.052	0.13	5	150	98	20190123	unknown
-Coma4	CACCCTTG	GTGTGYCAGCMGCCGCGGTAA	3	F3	Atelopuszeteki	Comamonas	Coma4	Coma04		Repeatedly inoculated with a modified Comamonas strain	no	NA		NA	NA	NA	5	#DIV/0!	NA	alive	
-Coma5	ATGCCTCG	GTGTGYCAGCMGCCGCGGTAA	3	G3	Atelopuszeteki	Comamonas	Coma5	Coma05		Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180711	0.082	0.119	5	45.12195122	79	20190104	Moldy Container
-Coma7	GTTGTTCT	GTGTGYCAGCMGCCGCGGTAA	3	H3	Atelopuszeteki	Comamonas	Coma7	Coma07		Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180725	0.042	0.095	5	126.1904762	76	20190101	Moldy Container
-Coma8	CAAATTCG	GTGTGYCAGCMGCCGCGGTAA	3	A4	Atelopuszeteki	Comamonas	Coma8	Coma08		Repeatedly inoculated with a modified Comamonas strain	yes	6	38	20180725	0.049	0.109	5	122.4489796	79	20190104	Moldy Container
-Coma9	TACGGTCT	GTGTGYCAGCMGCCGCGGTAA	3	B4	Atelopuszeteki	Comamonas	Coma9	Coma09		Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180824	0.04	0.106	5	165	101	20190126	unknown
-Jliv10	ACACACCC	GTGTGYCAGCMGCCGCGGTAA	3	H7	Atelopuszeteki	Jliv	Jliv10	Jliv10		Repeatedly inoculated with Janthinobacterium lividum	yes	7	39	20180721	0.092	0.1167	6	26.84782609	81	20190106	Moldy Container
-Jliv11	AACTTTCA	GTGTGYCAGCMGCCGCGGTAA	3	A8	Atelopuszeteki	Jliv	Jliv11	Jliv11		Repeatedly inoculated with Janthinobacterium lividum	yes	7	41	20180721	0.096	0.1321	6	37.60416667	122	20190216	
-Jliv13	AGATTCGC	GTGTGYCAGCMGCCGCGGTAA	3	B8	Atelopuszeteki	Jliv	Jliv13	Jliv13		Repeatedly inoculated with Janthinobacterium lividum	yes	7	27	20181012	0.057	0.095	6	66.66666667	76	20190101	Moldy Container
-Jliv2	TTAACAAG	GTGTGYCAGCMGCCGCGGTAA	3	C7	Atelopuszeteki	Jliv	Jliv2	Jliv02		Repeatedly inoculated with Janthinobacterium lividum	yes	7	38	20180801	0.075	0.092	6	22.66666667	49	20181205	unknown
-Jliv4	AAGTCACA	GTGTGYCAGCMGCCGCGGTAA	3	D7	Atelopuszeteki	Jliv	Jliv4	Jliv04		Repeatedly inoculated with Janthinobacterium lividum	yes	7	33	20180821	0.125	0.144	6	15.2	NA	alive	
-Jliv7	TGGCAGCG	GTGTGYCAGCMGCCGCGGTAA	3	E7	Atelopuszeteki	Jliv	Jliv7	Jliv07		Repeatedly inoculated with Janthinobacterium lividum	yes	7	36	20180810	0.053	0.111	6	109.4339623	NA	alive	
-Jliv8	CCGGCTTA	GTGTGYCAGCMGCCGCGGTAA	3	F7	Atelopuszeteki	Jliv	Jliv8	Jliv08		Repeatedly inoculated with Janthinobacterium lividum	yes	7	40	20180721	0.07	0.124	6	77.14285714	84	20190119	unknown
-Jliv9	CGAATACT	GTGTGYCAGCMGCCGCGGTAA	3	G7	Atelopuszeteki	Jliv	Jliv9	Jliv09		Repeatedly inoculated with Janthinobacterium lividum	yes	7	25	20180910	0.073	0.1466	6	100.8219178	140	20190306	
-Lipi1	CCGAGGTA	GTGTGYCAGCMGCCGCGGTAA	3	B7	Atelopuszeteki	LIPI	Lipi1	Lpip01		Cohoused with Lithobates pipiens tadpole	yes	8	40	20180721	0.095	0.113	7	18.94736842	138	20190304	
-Lipi12	GCCACCGC	GTGTGYCAGCMGCCGCGGTAA	3	H6	Atelopuszeteki	LIPI	Lipi12	Lpip12		Cohoused with Lithobates pipiens tadpole	yes	8	36	20180725	0.059	0.096	7	62.71186441	129	20190223	
-Lipi13	AACCACTA	GTGTGYCAGCMGCCGCGGTAA	3	A7	Atelopuszeteki	LIPI	Lipi13	Lpip13		Cohoused with Lithobates pipiens tadpole	yes	8	39	20180725	0.093	0.114	7	22.58064516	NA	alive	
-Lipi2	GCCGCCAG	GTGTGYCAGCMGCCGCGGTAA	3	H5	Atelopuszeteki	LIPI	Lipi2	Lpip02		Cohoused with Lithobates pipiens tadpole	yes	8	40	20180721	0.11	0.142	7	29.09090909	NA	alive	
-Lipi3	CAATGTAG	GTGTGYCAGCMGCCGCGGTAA	3	A6	Atelopuszeteki	LIPI	Lipi3	Lpip03		Cohoused with Lithobates pipiens tadpole	yes	8	38	20180725	0.099	0.113	7	14.14141414	128	20190222	unknown
-Lipi4	CCGCGTCT	GTGTGYCAGCMGCCGCGGTAA	3	B6	Atelopuszeteki	LIPI	Lipi4	Lpip04		Cohoused with Lithobates pipiens tadpole	no	NA	40	NA	0.122	0.134	7	9.836065574	NA	alive	
-Lipi5	TGGTGGAG	GTGTGYCAGCMGCCGCGGTAA	3	C6	Atelopuszeteki	LIPI	Lipi5	Lpip05		Cohoused with Lithobates pipiens tadpole	yes	8	34	20180803	0.054	0.091	7	68.51851852	119	20190213	unknown
-Lipi6	TCCGATAA	GTGTGYCAGCMGCCGCGGTAA	3	D6	Atelopuszeteki	LIPI	Lipi6	Lpip06		Cohoused with Lithobates pipiens tadpole	yes	8	41	20180715	0.101	0.105	7	3.96039604	NA	alive	
-Lipi7	CGGCCAGA	GTGTGYCAGCMGCCGCGGTAA	3	E6	Atelopuszeteki	LIPI	Lipi7	Lpip07		Cohoused with Lithobates pipiens tadpole	yes	8	32	20180914	0.066	0.098	7	48.48484848	79	20190104	Moldy Container
-Lipi8	TCGCTACA	GTGTGYCAGCMGCCGCGGTAA	3	F6	Atelopuszeteki	LIPI	Lipi8	Lpip08		Cohoused with Lithobates pipiens tadpole	yes	8	40	20180713	0.08	0.113	7	41.25	NA	alive	
-Lipi9	ATTATGAT	GTGTGYCAGCMGCCGCGGTAA	3	G6	Atelopuszeteki	LIPI	Lipi9	Lpip09		Cohoused with Lithobates pipiens tadpole	yes	8	34	20180716	0.104	0.105	7	0.961538462	76	20190101	Moldy Container
-Mock	AATTTAGG	GTGTGYCAGCMGCCGCGGTAA	1	A8	Mock	MOCK	Mock	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-neg3	CTATCTCC	GTGTGYCAGCMGCCGCGGTAA	3	B12	negative	NEGATIVE	neg3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Sp10	CCACAACG	GTGTGYCAGCMGCCGCGGTAA	3	C9	Atelopuszeteki		Sp10	SP10		Tadpoles fed with 4% Super Pig food	no	NA	25	20181023	NA	0.103	8	#DIV/0!	NA	alive	
-Sp12	CACCATCT	GTGTGYCAGCMGCCGCGGTAA	3	D9	Atelopuszeteki		Sp12	SP12		Tadpoles fed with 4% Super Pig food	yes	9	36	20180721	0.071	0.097	8	36.61971831	NA	alive	
-Sp13	TATGTTGA	GTGTGYCAGCMGCCGCGGTAA	3	E9	Atelopuszeteki		Sp13	SP13		Tadpoles fed with 4% Super Pig food	yes	9	36	20180721	0.071	0.103	8	45.07042254	111	20190205	unknown
-Sp2	AACCGCAT	GTGTGYCAGCMGCCGCGGTAA	3	C8	Atelopuszeteki		Sp2	SP02		Tadpoles fed with 4% Super Pig food	yes	9	41	20180721	0.051	0.115	8	125.4901961	121	20190215	
-Sp3	GAAGTAGC	GTGTGYCAGCMGCCGCGGTAA	3	D8	Atelopuszeteki		Sp3	SP03		Tadpoles fed with 4% Super Pig food	yes	9	35	20181001	0.031	0.069	8	122.5806452	67	20181223]	unknown
-Sp4	GTGAATGT	GTGTGYCAGCMGCCGCGGTAA	3	E8	Atelopuszeteki		Sp4	SP04		Tadpoles fed with 4% Super Pig food	yes	9	41	20180808	0.057	0.099	8	73.68421053	NA	alive	
-Sp5	ATAGTCCT	GTGTGYCAGCMGCCGCGGTAA	3	F8	Atelopuszeteki		Sp5	SP05		Tadpoles fed with 4% Super Pig food	yes	9	41	20180712	0.089	0.117	8	31.46067416	NA	alive	
-Sp6	TCTTATAA	GTGTGYCAGCMGCCGCGGTAA	3	G8	Atelopuszeteki		Sp6	SP06		Tadpoles fed with 4% Super Pig food	yes	9	40	20180721	0.061	0.086	8	40.98360656	138	20190304	
-Sp7	TATAGGCT	GTGTGYCAGCMGCCGCGGTAA	3	H8	Atelopuszeteki		Sp7	SP07		Tadpoles fed with 4% Super Pig food	yes	9	41	20180713	0.077	0.109	8	41.55844156	NA	alive	
-Sp8	CCAGGACA	GTGTGYCAGCMGCCGCGGTAA	3	A9	Atelopuszeteki		Sp8	SP08		Tadpoles fed with 4% Super Pig food	yes	9	34	20180828	0.057	0.107	8	87.71929825	122	20190216	
-Sp9	TTGCCGCT	GTGTGYCAGCMGCCGCGGTAA	3	B9	Atelopuszeteki		Sp9	SP09		Tadpoles fed with 4% Super Pig food	yes	9	40	20180721	0.094	0.105	8	11.70212766	NA	alive	
-x10Coma	AGGGACTT	GTGTGYCAGCMGCCGCGGTAA	3	E5	Atelopuszeteki		x10Coma	X10		Comamonas inoculated as metamorph	no	1	41	NA	0.067	0.092	9	37.31343284	NA	alive	
-x11Coma	CCGGCCGC	GTGTGYCAGCMGCCGCGGTAA	3	G5	Atelopuszeteki		x11Coma	X11		Comamonas inoculated as metamorph	yes	2		NA	NA	NA	9	#DIV/0!	NA	alive	
-x12Coma	GTACGTCA	GTGTGYCAGCMGCCGCGGTAA	3	F5	Atelopuszeteki		x12Coma	X12		Comamonas inoculated as metamorph	yes	2	42	NA	0.068	0.128	9	88.23529412	92	20190117	unknown
-x1Coma	GATGCCTA	GTGTGYCAGCMGCCGCGGTAA	3	F4	Atelopuszeteki		x1Coma	X01		Comamonas inoculated as metamorph	yes	2	42	NA	0.119	0.126	9	5.882352941	79	20190104	Moldy Container
-x2Coma	TTAGTTTG	GTGTGYCAGCMGCCGCGGTAA	3	G4	Atelopuszeteki		x2Coma	X02		Comamonas inoculated as metamorph	no	1	42	NA	0.067	0.104	9	55.2238806	96	20190121	unknown
-x3coma	ATAATTGC	GTGTGYCAGCMGCCGCGGTAA	3	H9	Atelopuszeteki		x3coma	X03		Comamonas inoculated as metamorph	no	1	41	NA	0.09	0.104	9	15.55555556	126	20190220	
-x5Coma	AGGGTGAC	GTGTGYCAGCMGCCGCGGTAA	3	H4	Atelopuszeteki		x5Coma	X05		Comamonas inoculated as metamorph	no	1	42	NA	0.077	0.111	9	44.15584416	NA	20190226	unknown
-x6Coma	TTGTGTCT	GTGTGYCAGCMGCCGCGGTAA	3	A5	Atelopuszeteki		x6Coma	X06		Comamonas inoculated as metamorph	yes	2	40	NA	0.047	0.126	9	168.0851064	NA	alive	
-x7Coma	TTCAGTTC	GTGTGYCAGCMGCCGCGGTAA	3	B5	Atelopuszeteki		x7Coma	X07		Comamonas inoculated as metamorph	no	1	42	NA	0.065	0.11	9	69.23076923	76	20190101	Moldy Container
-x8Coma	GACGTTAA	GTGTGYCAGCMGCCGCGGTAA	3	C5	Atelopuszeteki		x8Coma	X08		Comamonas inoculated as metamorph	no	1	42	NA	0.065	0.076	9	16.92307692	NA	alive	
-x9Coma	ATGGGACC	GTGTGYCAGCMGCCGCGGTAA	3	D5	Atelopuszeteki		x9Coma	X09		Comamonas inoculated as metamorph	yes	2	40	NA	0.054	0.067	9	24.07407407	93	20190118	unknown
+SampleID	BarcodeSequence	LinkerPrimerSequence	Plate	PCRWell	Species	Treat	Description	SampleIDbackup.spreadsheet	Treatment	Treatment.y	Bd.infected	TRT	Gosner.Stage.at.arrival	Metamorphed.on	Weight.when.infected	Weight.50.days.post.infection	TRT.1	Growth....	Days.survived.in.experiment	Deceased.on	Cause.of.death	Prop_inhib
+BacMx10	GCGAGGAA	GTGTGYCAGCMGCCGCGGTAA	3	A3	Atelopuszeteki	Bacteria Mixture	BacMx10	BacMix10	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180801	0.08	0.164	1	105	NA	alive		0.16
+BacMx11	GGACAAGT	GTGTGYCAGCMGCCGCGGTAA	3	B3	Atelopuszeteki	Bacteria Mixture	BacMx11	BacMix11	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	26-30	20180814	0.059	0.105	1	77.96610169	98	20190123	unknown	0.118
+BacMx13	CTGATGTA	GTGTGYCAGCMGCCGCGGTAA	3	C3	Atelopuszeteki	Bacteria Mixture	BacMx13	BacMix13	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180716	0.071	0.099	1	39.43661972	119	20190213	unknown	0.142
+BacMx2	GATCTAAT	GTGTGYCAGCMGCCGCGGTAA	3	C2	Atelopuszeteki	Bacteria Mixture	BacMx2	BacMix02	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180723	0.11	0.127	1	15.45454545	59	20181205	unknown	0.22
+BacMx3	CCGCAGCC	GTGTGYCAGCMGCCGCGGTAA	3	D2	Atelopuszeteki	Bacteria Mixture	BacMx3	BacMix03	BacMix	Repeatedly inoculated with beneficial microbiota consortium	no	NA	34	20181025	0.099	NA	1	-100	118	20190212	accidental death by falling	0.198
+BacMx4	GAACCGTG	GTGTGYCAGCMGCCGCGGTAA	3	E2	Atelopuszeteki	Bacteria Mixture	BacMx4	BacMix04	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180713	0.057	0.097	1	70.1754386	NA	20192502	unknown	0.114
+BacMx6	ACTAAGTA	GTGTGYCAGCMGCCGCGGTAA	3	F2	Atelopuszeteki	Bacteria Mixture	BacMx6	BacMix06	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	41	20180721	0.059	0.099	1	67.79661017	122	20190216		0.118
+BacMx8	CTCAGCGG	GTGTGYCAGCMGCCGCGGTAA	3	G2	Atelopuszeteki	Bacteria Mixture	BacMx8	BacMix08	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	25	20180929	0.025	0.101	1	304	121	20190215		0.05
+BacMx9	GTTAACTT	GTGTGYCAGCMGCCGCGGTAA	3	H2	Atelopuszeteki	Bacteria Mixture	BacMx9	BacMix09	BacMix	Repeatedly inoculated with beneficial microbiota consortium	yes	3	35	20180822	0.079	0.138	1	74.6835443	NA	alive		0.158
+Bd1	CCTCGCAT	GTGTGYCAGCMGCCGCGGTAA	3	A1	Atelopuszeteki	Bd	Bd1	Bd01	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	36-40	20180721	0.072	0.115	2	59.72222222	105	20190130	unknown	0.144
+Bd10	GCTGCGTA	GTGTGYCAGCMGCCGCGGTAA	3	G1	Atelopuszeteki	Bd	Bd10	Bd10	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	40	20180721	0.094	0.104	2	10.63829787	NA	alive		0.188
+Bd11	GAGAAGCT	GTGTGYCAGCMGCCGCGGTAA	3	H1	Atelopuszeteki	Bd	Bd11	Bd11	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	41	20180711	0.115	0.169	2	46.95652174	NA	alive		0.23
+Bd12	GGCGTAAC	GTGTGYCAGCMGCCGCGGTAA	3	A2	Atelopuszeteki	Bd	Bd12	Bd12	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	41	20180721	0.106	0.116	2	9.433962264	NA	alive		0.212
+Bd13	AATACAGA	GTGTGYCAGCMGCCGCGGTAA	3	B2	Atelopuszeteki	Bd	Bd13	Bd13	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	39	20180721	0.075	0.0935	2	24.66666667	65	20181221	unknown	0.15
+Bd2	CGCGCAAG	GTGTGYCAGCMGCCGCGGTAA	3	B1	Atelopuszeteki	Bd	Bd2	Bd02	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	36	20180801	0.116	0.129	2	11.20689655	119	20190213	unknown	0.232
+Bd5	TCGAGCCG	GTGTGYCAGCMGCCGCGGTAA	3	F9	Atelopuszeteki	Bd	Bd5	Bd05	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	42	20180712	0.107	0.13	2	21.4953271	NA	alive		0.214
+Bd6	AAGGCGCT	GTGTGYCAGCMGCCGCGGTAA	3	C1	Atelopuszeteki	Bd	Bd6	Bd06	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	37	20180908	0.082	0.114	2	39.02439024	106	20190131	unknown	0.164
+Bd7	CGCAATGA	GTGTGYCAGCMGCCGCGGTAA	3	D1	Atelopuszeteki	Bd	Bd7	Bd07	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	39	20180725	0.082	0.109	2	32.92682927	98	20190123	unknown	0.164
+Bd8	ACGGCGTT	GTGTGYCAGCMGCCGCGGTAA	3	E1	Atelopuszeteki	Bd	Bd8	Bd08	Bd	Repeatedly inoculated with treated with dead Bd zoospores	yes	4	38	20180803	0.06	0.092	2	53.33333333	87	20190112	unknown	0.12
+Bd9	CATTTGAC	GTGTGYCAGCMGCCGCGGTAA	3	F1	Atelopuszeteki	Bd	Bd9	Bd09	Bd	Repeatedly inoculated with treated with dead Bd zoospores	no	NA	35	20181112	NA	NA	2	#DIV/0!	26	20181112	unknown	0.192
+Bsal10	ACACCGCA	GTGTGYCAGCMGCCGCGGTAA	3	G11	Atelopuszeteki	Bsal	Bsal10	Bsal10	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	39	20180801	0.125	0.158	3	26.4	NA	alive		0.25
+Bsal11	CAGCCCTA	GTGTGYCAGCMGCCGCGGTAA	3	H11	Atelopuszeteki	Bsal	Bsal11	Bsal11	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	37	20180801	0.05	0.108	3	116	110	20190204	unknown	0.1
+Bsal12	CGGAGAGA	GTGTGYCAGCMGCCGCGGTAA	3	H10	Atelopuszeteki	Bsal	Bsal12	Bsal12?	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	27-30	20180803	0.074	0.112	3	51.35135135	NA	alive		0.148
+Bsal122	TCCGCCTA	GTGTGYCAGCMGCCGCGGTAA	3	A12	Atelopuszeteki	Bsal	Bsal12	Bsal12?	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	38	20180809	0.053	0.107	3	101.8867925	129	20190223		0.106
+Bsal2	GTCGCTTG	GTGTGYCAGCMGCCGCGGTAA	3	A11	Atelopuszeteki	Bsal	Bsal2	Bsal02	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	41	20180725	0.063	0.117	3	85.71428571	104	20190129	unknown	0.126
+Bsal3	TCTTGCGG	GTGTGYCAGCMGCCGCGGTAA	3	B11	Atelopuszeteki	Bsal	Bsal3	Bsal03	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	41	20180713	0.071	0.1105	3	55.63380282	NA	alive		0.142
+Bsal4	GAGCCATC	GTGTGYCAGCMGCCGCGGTAA	3	C11	Atelopuszeteki	Bsal	Bsal4	Bsal04	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	33	20181028	0.1	0.0944	3	-5.6	143	20190309		0.2
+Bsal5	TTCCACAC	GTGTGYCAGCMGCCGCGGTAA	3	D11	Atelopuszeteki	Bsal	Bsal5	Bsal05	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	41	20180713	0.063	0.102	3	61.9047619	NA	alive		0.126
+Bsal7	ATTTCCGC	GTGTGYCAGCMGCCGCGGTAA	3	E11	Atelopuszeteki	Bsal	Bsal7	Bsal07	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	41	20180721	0.1025	0.14	3	36.58536585	NA	alive		0.205
+Bsal8	GTACTCGA	GTGTGYCAGCMGCCGCGGTAA	3	F11	Atelopuszeteki	Bsal	Bsal8	Bsal08	Bsal	One time inoculated with treated with living Bsal zoospores	yes	4	41	20180721	0.095	0.123	3	29.47368421	129	20190223		0.19
+C10	AGTGTTTC	GTGTGYCAGCMGCCGCGGTAA	3	E10	Atelopuszeteki		C10	C10	Control	Control	no	0	40	20180712	0.083	0.098	4	18.07228916	79	20190104	Moldy Container	0.166
+C11	AGTGCAGG	GTGTGYCAGCMGCCGCGGTAA	3	F10	Atelopuszeteki		C11	C11	Control	Control	yes	5	39	20180713	0.107	0.126	4	17.75700935	76	20190101	Moldy Container	0.214
+C13	GTTGCTGA	GTGTGYCAGCMGCCGCGGTAA	3	G10	Atelopuszeteki		C13	C13	Control	Control	?	NA	35	20180810	0.08	0.13	4	62.5	81	20190106	Moldy Container	0.16
+C2	TAAGGTCG	GTGTGYCAGCMGCCGCGGTAA	3	G9	Atelopuszeteki		C2	C02	Control	Control	no	0	39	20180801	0.066	0.111	4	68.18181818	76	20190101	Moldy Container	0.132
+C3	GCGCGGCG	GTGTGYCAGCMGCCGCGGTAA	3	A10	Atelopuszeteki		C6? C5? C3?	C03	Control	Control	yes	5	39	20180721	NA	NA	4	#DIV/0!	NA	20180921	unknown	0.113
+C5	AGACTTCT	GTGTGYCAGCMGCCGCGGTAA	3	B10	Atelopuszeteki		C5	C05	Control	Control	yes	5	41	20180715	0.083	0.107	4	28.91566265	69	20181225	unknown	0.166
+C7	AGTTCTCA	GTGTGYCAGCMGCCGCGGTAA	3	C10	Atelopuszeteki		C7	C07	Control	Control	no	0	40	20180715	0.098	0.121	4	23.46938776	82	20190107	unknown	0.196
+C9	GTGTCGAG	GTGTGYCAGCMGCCGCGGTAA	3	D10	Atelopuszeteki		C9	C09	Control	Control	yes	5	41	20180715	0.076	0.109	4	43.42105263	143	20190309		0.152
+Coma10	TGGAGCCT	GTGTGYCAGCMGCCGCGGTAA	3	D3	Atelopuszeteki	Comamonas	Coma10	Coma10	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180803	0.071	0.139	5	95.77464789	81	20190106	Moldy Container	0.142
+Coma102	ACGTATTC	GTGTGYCAGCMGCCGCGGTAA	3	C4	Atelopuszeteki	Comamonas	Coma10	Coma13	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	39	20180730	NA	NA	5	#DIV/0!	NA	20180730	unknown	0.14
+Coma11	TTACTTAT	GTGTGYCAGCMGCCGCGGTAA	3	D4	Atelopuszeteki	Comamonas	Coma11	Coma11	Comamonas	Repeatedly inoculated with a modified Comamonas strain	no	NA		NA	NA	NA	5	#DIV/0!	NA	alive		0.22
+Coma12	AGTTGTAG	GTGTGYCAGCMGCCGCGGTAA	3	E4	Atelopuszeteki	Comamonas	Coma12	Coma12	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180713	0.078	0.113	5	44.87179487	93	20190118	unknown	0.156
+Coma3	ACGTGCCT	GTGTGYCAGCMGCCGCGGTAA	3	E3	Atelopuszeteki	Comamonas	Coma3	Coma03	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180830	0.052	0.13	5	150	98	20190123	unknown	0.104
+Coma4	CACCCTTG	GTGTGYCAGCMGCCGCGGTAA	3	F3	Atelopuszeteki	Comamonas	Coma4	Coma04	Comamonas	Repeatedly inoculated with a modified Comamonas strain	no	NA		NA	NA	NA	5	#DIV/0!	NA	alive		0.19
+Coma5	ATGCCTCG	GTGTGYCAGCMGCCGCGGTAA	3	G3	Atelopuszeteki	Comamonas	Coma5	Coma05	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180711	0.082	0.119	5	45.12195122	79	20190104	Moldy Container	0.164
+Coma7	GTTGTTCT	GTGTGYCAGCMGCCGCGGTAA	3	H3	Atelopuszeteki	Comamonas	Coma7	Coma07	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	41	20180725	0.042	0.095	5	126.1904762	76	20190101	Moldy Container	0.084
+Coma8	CAAATTCG	GTGTGYCAGCMGCCGCGGTAA	3	A4	Atelopuszeteki	Comamonas	Coma8	Coma08	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	38	20180725	0.049	0.109	5	122.4489796	79	20190104	Moldy Container	0.098
+Coma9	TACGGTCT	GTGTGYCAGCMGCCGCGGTAA	3	B4	Atelopuszeteki	Comamonas	Coma9	Coma09	Comamonas	Repeatedly inoculated with a modified Comamonas strain	yes	6	36	20180824	0.04	0.106	5	165	101	20190126	unknown	0.08
+Jliv10	ACACACCC	GTGTGYCAGCMGCCGCGGTAA	3	H7	Atelopuszeteki	Jliv	Jliv10	Jliv10	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	39	20180721	0.092	0.1167	6	26.84782609	81	20190106	Moldy Container	0.184
+Jliv11	AACTTTCA	GTGTGYCAGCMGCCGCGGTAA	3	A8	Atelopuszeteki	Jliv	Jliv11	Jliv11	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	41	20180721	0.096	0.1321	6	37.60416667	122	20190216		0.192
+Jliv13	AGATTCGC	GTGTGYCAGCMGCCGCGGTAA	3	B8	Atelopuszeteki	Jliv	Jliv13	Jliv13	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	27	20181012	0.057	0.095	6	66.66666667	76	20190101	Moldy Container	0.114
+Jliv2	TTAACAAG	GTGTGYCAGCMGCCGCGGTAA	3	C7	Atelopuszeteki	Jliv	Jliv2	Jliv02	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	38	20180801	0.075	0.092	6	22.66666667	49	20181205	unknown	0.15
+Jliv4	AAGTCACA	GTGTGYCAGCMGCCGCGGTAA	3	D7	Atelopuszeteki	Jliv	Jliv4	Jliv04	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	33	20180821	0.125	0.144	6	15.2	NA	alive		0.25
+Jliv7	TGGCAGCG	GTGTGYCAGCMGCCGCGGTAA	3	E7	Atelopuszeteki	Jliv	Jliv7	Jliv07	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	36	20180810	0.053	0.111	6	109.4339623	NA	alive		0.106
+Jliv8	CCGGCTTA	GTGTGYCAGCMGCCGCGGTAA	3	F7	Atelopuszeteki	Jliv	Jliv8	Jliv08	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	40	20180721	0.07	0.124	6	77.14285714	84	20190119	unknown	0.14
+Jliv9	CGAATACT	GTGTGYCAGCMGCCGCGGTAA	3	G7	Atelopuszeteki	Jliv	Jliv9	Jliv09	Jliv	Repeatedly inoculated with Janthinobacterium lividum	yes	7	25	20180910	0.073	0.1466	6	100.8219178	140	20190306		0.146
+Lipi1	CCGAGGTA	GTGTGYCAGCMGCCGCGGTAA	3	B7	Atelopuszeteki	LIPI	Lipi1	Lpip01	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	40	20180721	0.095	0.113	7	18.94736842	138	20190304		0.19
+Lipi12	GCCACCGC	GTGTGYCAGCMGCCGCGGTAA	3	H6	Atelopuszeteki	LIPI	Lipi12	Lpip12	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	36	20180725	0.059	0.096	7	62.71186441	129	20190223		0.118
+Lipi13	AACCACTA	GTGTGYCAGCMGCCGCGGTAA	3	A7	Atelopuszeteki	LIPI	Lipi13	Lpip13	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	39	20180725	0.093	0.114	7	22.58064516	NA	alive		0.186
+Lipi2	GCCGCCAG	GTGTGYCAGCMGCCGCGGTAA	3	H5	Atelopuszeteki	LIPI	Lipi2	Lpip02	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	40	20180721	0.11	0.142	7	29.09090909	NA	alive		0.22
+Lipi3	CAATGTAG	GTGTGYCAGCMGCCGCGGTAA	3	A6	Atelopuszeteki	LIPI	Lipi3	Lpip03	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	38	20180725	0.099	0.113	7	14.14141414	128	20190222	unknown	0.198
+Lipi4	CCGCGTCT	GTGTGYCAGCMGCCGCGGTAA	3	B6	Atelopuszeteki	LIPI	Lipi4	Lpip04	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	no	NA	40	NA	0.122	0.134	7	9.836065574	NA	alive		0.244
+Lipi5	TGGTGGAG	GTGTGYCAGCMGCCGCGGTAA	3	C6	Atelopuszeteki	LIPI	Lipi5	Lpip05	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	34	20180803	0.054	0.091	7	68.51851852	119	20190213	unknown	0.108
+Lipi6	TCCGATAA	GTGTGYCAGCMGCCGCGGTAA	3	D6	Atelopuszeteki	LIPI	Lipi6	Lpip06	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	41	20180715	0.101	0.105	7	3.96039604	NA	alive		0.202
+Lipi7	CGGCCAGA	GTGTGYCAGCMGCCGCGGTAA	3	E6	Atelopuszeteki	LIPI	Lipi7	Lpip07	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	32	20180914	0.066	0.098	7	48.48484848	79	20190104	Moldy Container	0.132
+Lipi8	TCGCTACA	GTGTGYCAGCMGCCGCGGTAA	3	F6	Atelopuszeteki	LIPI	Lipi8	Lpip08	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	40	20180713	0.08	0.113	7	41.25	NA	alive		0.16
+Lipi9	ATTATGAT	GTGTGYCAGCMGCCGCGGTAA	3	G6	Atelopuszeteki	LIPI	Lipi9	Lpip09	Cohoused_lpip	Cohoused with Lithobates pipiens tadpole	yes	8	34	20180716	0.104	0.105	7	0.961538462	76	20190101	Moldy Container	0.208
+Mock	AATTTAGG	GTGTGYCAGCMGCCGCGGTAA	1	A8	Mock	MOCK	Mock	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	N/A
+neg3	CTATCTCC	GTGTGYCAGCMGCCGCGGTAA	3	B12	negative	NEGATIVE	neg3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	N/A
+Sp10	CCACAACG	GTGTGYCAGCMGCCGCGGTAA	3	C9	Atelopuszeteki		Sp10	SP10	Fed_super_pig	Tadpoles fed with 4% Super Pig food	no	NA	25	20181023	NA	0.103	8	#DIV/0!	NA	alive		N/A
+Sp12	CACCATCT	GTGTGYCAGCMGCCGCGGTAA	3	D9	Atelopuszeteki		Sp12	SP12	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	36	20180721	0.071	0.097	8	36.61971831	NA	alive		0.142
+Sp13	TATGTTGA	GTGTGYCAGCMGCCGCGGTAA	3	E9	Atelopuszeteki		Sp13	SP13	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	36	20180721	0.071	0.103	8	45.07042254	111	20190205	unknown	0.142
+Sp2	AACCGCAT	GTGTGYCAGCMGCCGCGGTAA	3	C8	Atelopuszeteki		Sp2	SP02	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	41	20180721	0.051	0.115	8	125.4901961	121	20190215		0.102
+Sp3	GAAGTAGC	GTGTGYCAGCMGCCGCGGTAA	3	D8	Atelopuszeteki		Sp3	SP03	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	35	20181001	0.031	0.069	8	122.5806452	67	20181223]	unknown	0.062
+Sp4	GTGAATGT	GTGTGYCAGCMGCCGCGGTAA	3	E8	Atelopuszeteki		Sp4	SP04	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	41	20180808	0.057	0.099	8	73.68421053	NA	alive		0.114
+Sp5	ATAGTCCT	GTGTGYCAGCMGCCGCGGTAA	3	F8	Atelopuszeteki		Sp5	SP05	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	41	20180712	0.089	0.117	8	31.46067416	NA	alive		0.178
+Sp6	TCTTATAA	GTGTGYCAGCMGCCGCGGTAA	3	G8	Atelopuszeteki		Sp6	SP06	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	40	20180721	0.061	0.086	8	40.98360656	138	20190304		0.122
+Sp7	TATAGGCT	GTGTGYCAGCMGCCGCGGTAA	3	H8	Atelopuszeteki		Sp7	SP07	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	41	20180713	0.077	0.109	8	41.55844156	NA	alive		0.154
+Sp8	CCAGGACA	GTGTGYCAGCMGCCGCGGTAA	3	A9	Atelopuszeteki		Sp8	SP08	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	34	20180828	0.057	0.107	8	87.71929825	122	20190216		0.114
+Sp9	TTGCCGCT	GTGTGYCAGCMGCCGCGGTAA	3	B9	Atelopuszeteki		Sp9	SP09	Fed_super_pig	Tadpoles fed with 4% Super Pig food	yes	9	40	20180721	0.094	0.105	8	11.70212766	NA	alive		0.188
+x10Coma	AGGGACTT	GTGTGYCAGCMGCCGCGGTAA	3	E5	Atelopuszeteki		x10Coma	X10	Comamonas	Comamonas inoculated as metamorph	no	1	41	NA	0.067	0.092	9	37.31343284	NA	alive		0.134
+x11Coma	CCGGCCGC	GTGTGYCAGCMGCCGCGGTAA	3	G5	Atelopuszeteki		x11Coma	X11	Comamonas	Comamonas inoculated as metamorph	yes	2		NA	NA	NA	9	#DIV/0!	NA	alive		0.13
+x12Coma	GTACGTCA	GTGTGYCAGCMGCCGCGGTAA	3	F5	Atelopuszeteki		x12Coma	X12	Comamonas	Comamonas inoculated as metamorph	yes	2	42	NA	0.068	0.128	9	88.23529412	92	20190117	unknown	0.136
+x1Coma	GATGCCTA	GTGTGYCAGCMGCCGCGGTAA	3	F4	Atelopuszeteki		x1Coma	X01	Comamonas	Comamonas inoculated as metamorph	yes	2	42	NA	0.119	0.126	9	5.882352941	79	20190104	Moldy Container	0.238
+x2Coma	TTAGTTTG	GTGTGYCAGCMGCCGCGGTAA	3	G4	Atelopuszeteki		x2Coma	X02	Comamonas	Comamonas inoculated as metamorph	no	1	42	NA	0.067	0.104	9	55.2238806	96	20190121	unknown	0.134
+x3coma	ATAATTGC	GTGTGYCAGCMGCCGCGGTAA	3	H9	Atelopuszeteki		x3coma	X03	Comamonas	Comamonas inoculated as metamorph	no	1	41	NA	0.09	0.104	9	15.55555556	126	20190220		0.18
+x5Coma	AGGGTGAC	GTGTGYCAGCMGCCGCGGTAA	3	H4	Atelopuszeteki		x5Coma	X05	Comamonas	Comamonas inoculated as metamorph	no	1	42	NA	0.077	0.111	9	44.15584416	NA	20190226	unknown	0.154
+x6Coma	TTGTGTCT	GTGTGYCAGCMGCCGCGGTAA	3	A5	Atelopuszeteki		x6Coma	X06	Comamonas	Comamonas inoculated as metamorph	yes	2	40	NA	0.047	0.126	9	168.0851064	NA	alive		0.094
+x7Coma	TTCAGTTC	GTGTGYCAGCMGCCGCGGTAA	3	B5	Atelopuszeteki		x7Coma	X07	Comamonas	Comamonas inoculated as metamorph	no	1	42	NA	0.065	0.11	9	69.23076923	76	20190101	Moldy Container	0.13
+x8Coma	GACGTTAA	GTGTGYCAGCMGCCGCGGTAA	3	C5	Atelopuszeteki		x8Coma	X08	Comamonas	Comamonas inoculated as metamorph	no	1	42	NA	0.065	0.076	9	16.92307692	NA	alive		0.13
+x9Coma	ATGGGACC	GTGTGYCAGCMGCCGCGGTAA	3	D5	Atelopuszeteki		x9Coma	X09	Comamonas	Comamonas inoculated as metamorph	yes	2	40	NA	0.054	0.067	9	24.07407407	93	20190118	unknown	0.108

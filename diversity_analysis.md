@@ -6,7 +6,7 @@ library(plyr)
 
 #read in metadata
 setwd("./Github/panama_golden_frogs/")
-meta<-read.delim("Run11_map.txt", header=T)
+meta<-read.delim("golden_frog_full_meta_data.txt", header=T)
 
 #read in ASV table
 #read in ASV table
